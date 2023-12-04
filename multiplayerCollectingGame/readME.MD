@@ -1,4 +1,4 @@
-Make sure you game pygame installed.
+Make sure you have the pygame library installed.
 
 Start the game by running:
 
