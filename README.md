@@ -1,2 +1,2 @@
 # PyGames
-Some pygame files.
+Some pygame files
