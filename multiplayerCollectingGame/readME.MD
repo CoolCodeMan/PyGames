@@ -4,4 +4,4 @@ Start the game by running:
 
 <i>python3 game.py</i>
 
-Use the WASD and the arrow keys to move around.
+Use the WASD (player 1) and the arrow keys (player 2) to move around.
